@@ -71,6 +71,7 @@ const ImgPost = styled.img`
 `;
 
 class Post extends React.PureComponent { // eslint-disable-line react/prefer-stateless-function
+
   render() {
     return (
       <PostWrapper {...this.props}>

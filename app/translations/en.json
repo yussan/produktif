@@ -1,1 +1,13 @@
-[]
+{
+  "app.components.HomePage.header": "This is HomePage component!",
+  "app.components.NavBar.home": "Home",
+  "app.components.NavBar.login": "Login",
+  "app.components.NavBar.search": "Search...",
+  "app.components.NavBar.signUp": "Sign up",
+  "app.components.NavBar.write": "Write",
+  "app.components.NotFoundPage.header": "This is NotFoundPage component!",
+  "app.containers.Header.home": "Home",
+  "app.containers.Header.search": "Search",
+  "app.containers.Header.write": "Write",
+  "app.containers.ProfilePage.header": "This is ProfilePage container !"
+}

@@ -1,0 +1,13 @@
+{
+  "app.components.HomePage.header": "",
+  "app.components.NavBar.home": "",
+  "app.components.NavBar.login": "",
+  "app.components.NavBar.search": "",
+  "app.components.NavBar.signUp": "",
+  "app.components.NavBar.write": "",
+  "app.components.NotFoundPage.header": "",
+  "app.containers.Header.home": "",
+  "app.containers.Header.search": "",
+  "app.containers.Header.write": "",
+  "app.containers.ProfilePage.header": ""
+}

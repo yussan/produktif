@@ -14,6 +14,7 @@ import styled from 'styled-components';
 
 import Post from 'components/Post';
 import Wrapper from 'components/Wrapper';
+import Helmet from 'components/Helmet';
 
 import Masonry from 'react-masonry-component';
 
@@ -31,6 +32,7 @@ export default class HomePage extends React.PureComponent { // eslint-disable-li
   render() {
     return (
       <Wrapper width={1260}>
+        <Helmet />
         <br />
         <span>
           <PostWrapper>
